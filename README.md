@@ -2,4 +2,4 @@
 
 Examples of optimizing Lua code for performance.
 
-Please click the "Star" button on GitHub if you find this asset to be useful!
+Please click the ☆ button on GitHub if this repository is useful or interesting. Thank you!
